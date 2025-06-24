@@ -1,4 +1,11 @@
-## Hi there 👋
+# Technologies I Work With
+![HTML](https://img.shields.io/badge/html-mu?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
+![CSS](https://img.shields.io/badge/css-ss?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=black)
+![JS](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)
+![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black)
+![Node](https://img.shields.io/badge/node-js?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&labelColor=black&color=black)
+![Express](https://img.shields.io/badge/express-framework?style=for-the-badge&logo=express&logoColor=%23FFFFFF&labelColor=black&color=black)
+![MongoDB](https://img.shields.io/badge/mongodb-db?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=black&color=black)
 
 <!--
 **Soorya01-prog/Soorya01-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
