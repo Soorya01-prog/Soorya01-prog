@@ -1,3 +1,6 @@
+Hello! I'm Soorya S S, a passionate **Web developer** specializing in creating user-friendly, visually engaging websites. I enjoy bringing creative ideas to life using modern tools and technologies.
+With a strong foundation in web development and a keen eye for design, I strive to build applications that not only function flawlessly but also provide exceptional user experiences.
+
 # Technologies I Work With
 ![HTML](https://img.shields.io/badge/html-mu?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
 ![CSS](https://img.shields.io/badge/css-ss?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=black)
