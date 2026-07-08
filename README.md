@@ -1,29 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soorya%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Database%20Engineer%20%7C%20Automation%20Specialist&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soorya%20SS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Automation%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+Database+Engineer;Automation+Specialist+with+an+AI+edge;Crafting+user-friendly%2C+visually+engaging+sites;N8N+%7C+MySQL+%7C+Python+%7C+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+Automation+%7C+AI%2FML+Enthusiast;Crafting+user-friendly%2C+visually+engaging+sites;N8N+%7C+MySQL+%7C+Python+%7C+RAG;%22There+is+no+substitute+for+hard+work%22)](https://git.io/typing-svg)
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🚀 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
 public class Soorya {
     String name = "Soorya S S";
     String location = "Coimbatore, Tamil Nadu, India";
-    String[] roles = {
-        "Web Developer", "Database Engineer", "Automation Engineer"
-    };
-    String passion = "Creating user-friendly, visually engaging websites";
-    String interest = "Artificial Intelligence";
 
-    String[] stack = {
-        "Java", "Python", "HTML", "CSS",
-        "MySQL", "Spring Boot", "N8N", "Retool"
+    String[] roles = {
+        "Web Developer", "Automation Engineer", "AI/ML Enthusiast"
     };
+
+    String philosophy = "I build solutions that don't exist, "
+                       + "not ones that already do.";
 
     String[] currentlyLearning = {
         "Computer Networks (Scaler)",
@@ -31,10 +28,10 @@ public class Soorya {
         "Spring Boot (advanced)"
     };
 
-    String funFact = "Built a printing platform used by 1000+ students!";
+    String funFact = "My project is used by 1000+ students in college!";
 
     String motto() {
-        return "Automate the boring, build the impactful.";
+        return "There is no substitute for hard work.";
     }
 }
 ```
@@ -43,31 +40,32 @@ public class Soorya {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages and Web Technologies:** Java, Python, HTML, CSS, JavaScript
+
+**Databases, Frameworks & Tools:** MySQL, Spring Boot (Beginner), Postman
+
+**Automation and AI/ML:** N8N Automation, Retool, YOLOv8, Retrieval-Augmented Generation (RAG)
+
+**Soft Skills:** Problem Solving, Teamwork, Time Management, Leadership, Communication
+
+**Areas of Interest:** Object Oriented Programming, Database Management System, Data Structures and Algorithms
+
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-**Automation & AI/ML**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho%20Bigin%20CRM-C8202F?style=flat-square&logo=zoho&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats
 
@@ -84,16 +82,6 @@ public class Soorya {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Soorya01-prog&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soorya01-prog&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soorya01-prog&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ## 💼 Work Experience
@@ -136,25 +124,40 @@ public class Soorya {
 
 </div>
 
-## 🏅 Achievements
+## 🏅 Achievements & Awards
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|---|---|---|
-| 🥇 | Best Outgoing Student Award | Academic & Sports Excellence, AY 2020-21; School 3rd Rank in Grade 12 Boards |
-| 🥇 | Project Expo Winner (2023–24) | 1st Prize, Dept. of Computer Science |
-| 🥇 | Project Expo Winner (2025–26) | 1st Prize, Dept. of Computer Science |
-| 🏁 | iTech Summit Hackathon Finalist | Ranked among top teams out of 400+ participants |
-| 🎖️ | CSE Association Honor | Recognized for Student Print Web Application implementation |
-| 🗂️ | Best Organizing Team | Organized PSG iTech Hackathon with 1,700+ participants |
-| 🏏 | Cricket – Winners | 2023–24 |
-| 🏏 | Cricket – Runners-up | 2024–25 |
-| 🏐 | Volleyball – Winners | 2025–26 |
+### 🎓 Academic & Project Excellence
+
+| 🏆 Achievement | 📋 Details |
+|:---|:---|
+| 🥇 **Best Outgoing Student Award** | Academic & Sports Excellence, AY 2020–21 · School 3rd Rank in Grade 12 Boards |
+| 🥇 **Project Expo Winner** — AY 2023–24 | 1st Prize, Dept. of Computer Science |
+| 🥇 **Project Expo Winner** — AY 2025–26 | 1st Prize, Dept. of Computer Science |
+| 🏁 **iTech Summit Hackathon Finalist** | Ranked among top teams out of **400+ participants** |
+
+### 🌟 Leadership & Recognition
+
+| 🏆 Achievement | 📋 Details |
+|:---|:---|
+| 🎖️ **CSE Association Honor** | Recognized for the successful implementation of the Student Print Web Application |
+| 🗂️ **Best Organizing Team** | Organized the PSG iTech Hackathon with **1,700+ participants** |
+
+### 🏏 Sports
+
+| 🏆 Achievement | 📋 Details |
+|:---|:---|
+| 🏏 **Cricket — Winners** | 2023–24 |
+| 🏏 **Cricket — Runners-up** | 2024–25 |
+| 🏐 **Volleyball — Winners** | 2025–26 |
+
+### 📜 Certifications
+
+![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Foundations%20Associate%20–%20AI%20%26%20ML-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Scaler](https://img.shields.io/badge/Computer%20Networks%20–%20Scaler-6C63FF?style=flat-square&logo=scaler&logoColor=white)
 
 </div>
-
-**Certifications:** Oracle Certified Foundations Associate – AI Associate and Machine Learning (May 2025) • Computer Networks: Master Computer Networking, Scaler (June 2026)
 
 ## 🎓 Education
 
