@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soorya%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20%2B%20Business%20Systems%20Student%20%7C%20AI%2FAutomation%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soorya%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Database%20Engineer%20%7C%20Automation%20Specialist&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+CSBS+%40+PSG+iTech;AI+%26+Automation+Enthusiast;N8N+%7C+Python+%7C+YOLOv8+%7C+RAG;Building+real-world+ML+%2B+workflow+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+Database+Engineer;Automation+Specialist+with+an+AI+edge;Crafting+user-friendly%2C+visually+engaging+sites;N8N+%7C+MySQL+%7C+Python+%7C+RAG)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,11 @@
 public class Soorya {
     String name = "Soorya S S";
     String location = "Coimbatore, Tamil Nadu, India";
-    String degree = "B.Tech, Computer Science and Business Systems";
-    String college = "PSG Institute of Technology and Applied Research";
+    String[] roles = {
+        "Web Developer", "Database Engineer", "Automation Engineer"
+    };
+    String passion = "Creating user-friendly, visually engaging websites";
+    String interest = "Artificial Intelligence";
 
     String[] stack = {
         "Java", "Python", "HTML", "CSS",
