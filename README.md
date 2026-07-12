@@ -8,8 +8,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91%208870305577-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918870305577)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya01-prog)
-![Profile Views](https://komarev.com/ghpvc/?username=Soorya01-prog&style=flat-square&color=70a5fd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya-SS-01)
+![Profile Views](https://komarev.com/ghpvc/?username=Soorya-SS-01&style=flat-square&color=70a5fd)
 
 </div>
 
@@ -92,21 +92,21 @@ public class Soorya {
 
 <div align="center">
 
-<a href="https://github.com/Soorya01-prog">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soorya01-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
+<a href="https://github.com/Soorya-SS-01">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soorya-SS-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="165"/>
 </a>
-<a href="https://github.com/Soorya01-prog">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya01-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
+<a href="https://github.com/Soorya-SS-01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya-SS-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Soorya01-prog&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Soorya-SS-01&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soorya01-prog&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=C9D1D9&area=true&border_radius=10" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soorya-SS-01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=C9D1D9&area=true&border_radius=10" width="100%"/>
 </div>
 
 ## 🧩 LeetCode Stats
@@ -114,7 +114,7 @@ public class Soorya {
 <div align="center">
 
 <a href="https://leetcode.com/u/Soorya_S/">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=Soorya_S&theme=dark&border_color=70A5FD&background_color=0D1117&text_color=C9D1D9" height="165"/>
+  <img src="https://leetcode-stats-card.vercel.app/api?username=Soorya_S&theme=dark&border_color=70A5FD&background_color=0D1117&text_color=C9D1D9" height="120"/>
 </a>
 
 </div>
@@ -132,7 +132,7 @@ public class Soorya {
 <div align="center">
 
 <a href="https://leetcode.com/u/Soorya_S/">
-  <img src="https://leetcard.jacoblin.cool/Soorya_S?theme=dark&font=Baloo%202&ext=heatmap" width="100%"/>
+  <img src="https://leetcard.jacoblin.cool/Soorya_S?theme=dark&ext=heatmap" width="65%"/>
 </a>
 
 </div>
@@ -253,8 +253,8 @@ public class Soorya {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91%208870305577-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918870305577)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya01-prog)
-![Profile Views](https://komarev.com/ghpvc/?username=Soorya01-prog&style=flat-square&color=70a5fd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya-SS-01)
+![Profile Views](https://komarev.com/ghpvc/?username=Soorya-SS-01&style=flat-square&color=70a5fd)
 
 </div>
 
