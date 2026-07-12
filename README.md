@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soorya%20SS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Automation%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soorya%20SS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Web%20Developer%20%7C%20Automation%20%7C%20Problem%20Solving%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+Automation+%7C+AI%2FML+Enthusiast;Crafting+user-friendly%2C+visually+engaging+sites;N8N+%7C+MySQL+%7C+Python+%7C+RAG;%22There+is+no+substitute+for+hard+work%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+Automation+%7C+Problem+Solving;Crafting+user-friendly%2C+visually+engaging+sites;N8N+%7C+MySQL+%7C+Python+%7C+RAG;%22There+is+no+substitute+for+hard+work%22)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-s-s-364839370)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
@@ -43,6 +43,7 @@ public class Soorya {
     };
 
     String[] currentlyLearning = {
+        "Computer Networks (Scaler)",
         "Retrieval-Augmented Generation",
         "Spring Boot (advanced)"
     };
