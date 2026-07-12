@@ -209,6 +209,7 @@ public class Soorya {
 ### 📜 Certifications
 
 ![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Foundations%20Associate%20–%20AI%20%26%20ML-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator%20(RHCSA)-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Scaler](https://img.shields.io/badge/Computer%20Networks%20–%20Scaler-6C63FF?style=flat-square&logo=scaler&logoColor=white)
 
 </div>
