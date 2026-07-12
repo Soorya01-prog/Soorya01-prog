@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91%208870305577-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918870305577)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya-SS-01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya01-prog)
 ![Profile Views](https://komarev.com/ghpvc/?username=Soorya01-prog&style=flat-square&color=70a5fd)
 
 </div>
@@ -128,6 +128,14 @@ public class Soorya {
 </div>
 
 **Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026 — a sustained daily problem-solving streak.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Soorya_S/">
+  <img src="https://leetcard.jacoblin.cool/Soorya_S?theme=dark&font=Baloo%202&ext=heatmap" width="100%"/>
+</a>
+
+</div>
 
 **Solved by Language:**
 
