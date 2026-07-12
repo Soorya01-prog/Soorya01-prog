@@ -43,7 +43,6 @@ public class Soorya {
     };
 
     String[] currentlyLearning = {
-        "Computer Networks (Scaler)",
         "Retrieval-Augmented Generation",
         "Spring Boot (advanced)"
     };
