@@ -110,22 +110,21 @@ public class Soorya {
 <div align="center">
 
 <a href="https://leetcode.com/u/Soorya_S/">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Soorya_S&theme=dark" height="120"/>
+  <img src="https://leetcard.jacoblin.cool/Soorya_S?ext=heatmap&theme=dark" alt="Soorya's LeetCode Heatmap" />
 </a>
 
 </div>
 
 <div align="center">
 
-![Rank](https://img.shields.io/badge/Global%20Rank-370%2C209-70A5FD?style=flat-square&logo=leetcode&logoColor=white)
-![50 Days Badge](https://img.shields.io/badge/🔥%2050%20Days%20Badge-2026-EA4B71?style=flat-square)
-![100 Days Badge](https://img.shields.io/badge/🔥%20100%20Days%20Badge-2026-BF91F3?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-393-70A5FD?style=for-the-badge&logo=leetcode&logoColor=white)
+![Global Rank](https://img.shields.io/badge/Global%20Rank-370%2C209-BF91F3?style=for-the-badge&logo=leetcode&logoColor=white)
+![50 Days Badge](https://img.shields.io/badge/🔥%2050%20Days%20Badge-2026-EA4B71?style=for-the-badge)
+![100 Days Badge](https://img.shields.io/badge/🔥%20100%20Days%20Badge-2026-38BDAE?style=for-the-badge)
 
 </div>
 
-**Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026 — a sustained daily problem-solving streak, with **393 total problems solved** across languages.
-
-**Solved by Language:**
+**Solved by Language**
 
 | Language | Problems Solved |
 |---|---|
@@ -133,7 +132,7 @@ public class Soorya {
 | 🐍 Python | 59 |
 | 🗄️ MySQL | 19 |
 
-**Top Skill Tags:**
+**Top Skill Tags**
 
 `Array x183` · `String x71` · `Hash Table x64` · `Dynamic Programming x64` · `Two Pointers x55` · `Depth-First Search x52` · `Binary Search x45` · `Union-Find x16` · `Backtracking x12`
 
