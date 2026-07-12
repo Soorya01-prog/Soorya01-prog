@@ -105,10 +105,6 @@ public class Soorya {
   <img src="https://streak-stats.demolab.com?user=Soorya-SS-01&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soorya-SS-01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=C9D1D9&area=true&border_radius=10" width="100%"/>
-</div>
-
 ## 🧩 LeetCode Stats
 
 <div align="center">
@@ -127,15 +123,7 @@ public class Soorya {
 
 </div>
 
-**Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026 — a sustained daily problem-solving streak.
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Soorya_S/">
-  <img src="https://leetcard.jacoblin.cool/Soorya_S?theme=dark&ext=heatmap" width="65%"/>
-</a>
-
-</div>
+**Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026 — a sustained daily problem-solving streak, with **393 total problems solved** across languages.
 
 **Solved by Language:**
 
