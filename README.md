@@ -4,7 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+Automation+%7C+AI%2FML+Enthusiast;Crafting+user-friendly%2C+visually+engaging+sites;N8N+%7C+MySQL+%7C+Python+%7C+RAG;%22There+is+no+substitute+for+hard+work%22)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-s-s-364839370)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-+91%208870305577-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918870305577)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya01-prog)
+![Profile Views](https://komarev.com/ghpvc/?username=Soorya01-prog&style=flat-square&color=70a5fd)
+
 </div>
+
+---
+
+### 📌 Quick Nav
+[About](#-about-me) · [Tech Stack](#️-tech-stack) · [GitHub Stats](#-github-stats) · [LeetCode](#-leetcode-stats) · [Experience](#-work-experience) · [Projects](#-featured-projects) · [Achievements](#-achievements--awards) · [Education](#-education) · [Currently Learning](#-currently-learning) · [Connect](#-connect-with-me)
+
+---
 
 ## 🚀 About Me
 
@@ -14,6 +28,7 @@
 public class Soorya {
     String name = "Soorya S S";
     String location = "Coimbatore, Tamil Nadu, India";
+    String phone = "+91 8870305577";
 
     String[] roles = {
         "Web Developer", "Automation Engineer", "AI/ML Enthusiast"
@@ -21,6 +36,11 @@ public class Soorya {
 
     String philosophy = "I build solutions that don't exist, "
                        + "not ones that already do.";
+
+    String[] areasOfInterest = {
+        "Object Oriented Programming", "Data Structures & Algorithms",
+        "Database Management Systems", "Automation Workflows"
+    };
 
     String[] currentlyLearning = {
         "Computer Networks (Scaler)",
@@ -40,15 +60,15 @@ public class Soorya {
 
 ## 🛠️ Tech Stack
 
-**Languages and Web Technologies:** Java, Python, HTML, CSS, JavaScript
+**Languages & Web Technologies:** Java, Python, HTML, CSS, JavaScript
 
 **Databases, Frameworks & Tools:** MySQL, Spring Boot (Beginner), Postman, VS Code
 
-**Automation and AI/ML:** N8N Automation, Retool, YOLOv8, Retrieval-Augmented Generation (RAG)
+**Automation & AI/ML:** N8N Automation, Retool, YOLOv8, Retrieval-Augmented Generation (RAG)
+
+**Coursework:** Object Oriented Programming, Database Management Systems, Operating Systems, Data Structures & Algorithms
 
 **Soft Skills:** Problem Solving, Teamwork, Time Management, Leadership, Communication
-
-**Areas of Interest:** Object Oriented Programming, Database Management System, Data Structures and Algorithms
 
 <div align="center">
 
@@ -60,6 +80,7 @@ public class Soorya {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
@@ -84,6 +105,10 @@ public class Soorya {
   <img src="https://streak-stats.demolab.com?user=Soorya01-prog&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soorya01-prog&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=C9D1D9&area=true&border_radius=10" width="100%"/>
+</div>
+
 ## 🧩 LeetCode Stats
 
 <div align="center">
@@ -102,7 +127,7 @@ public class Soorya {
 
 </div>
 
-**Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026, reflecting a sustained daily problem-solving streak.
+**Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026 — a sustained daily problem-solving streak.
 
 **Solved by Language:**
 
@@ -114,20 +139,20 @@ public class Soorya {
 
 **Top Skill Tags:**
 
-`Array x183` · `String x71` · `Hash Table x64` · `Dynamic Programming x64` · `Two Pointers x55` · `Depth-First Search x52` · `Binary Search x45` · `Backtracking x12` · `Union-Find x16`
+`Array x183` · `String x71` · `Hash Table x64` · `Dynamic Programming x64` · `Two Pointers x55` · `Depth-First Search x52` · `Binary Search x45` · `Union-Find x16` · `Backtracking x12`
 
 > 🔗 Full profile: [leetcode.com/u/Soorya_S](https://leetcode.com/u/Soorya_S/)
 
 ## 💼 Work Experience
 
-<details>
+<details open>
 <summary><b>SAP Labs, Bangalore — Intern (May 2026 – June 2026)</b></summary>
 <br>
 
 > `N8N` `Python` `HTML` `CSS` `MySQL` `Ollama/Gemini`
 
-- Built an AI-powered nutrition platform with end-to-end workflow automation covering client onboarding, assessment processing, and personalized diet plan generation.
-- Automated doctor approval flows, meeting scheduling, and follow-up notifications within the same pipeline.
+- Built an AI-powered nutrition platform with end-to-end workflow automation covering client onboarding, nutrition assessment processing, and Local/Cloud LLM-based personalized diet plan generation.
+- Automated doctor approval workflows, meeting scheduling, and follow-up notifications within the same pipeline.
 - Integrated Ollama/Gemini for AI-driven personalization of diet recommendations.
 - Delivered a full-stack automation solution spanning multiple stakeholder touchpoints (client → doctor → follow-up).
 
@@ -152,9 +177,9 @@ public class Soorya {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**Smart Stump Vision – AI for Cricket Decisions**](#) | Python, YOLOv8, OpenCV, MiDaS, LabelImg | Real-time ML system for stumping decisions; detects bat, foot, ground with depth estimation; custom hand-annotated dataset |
-| [**Student Printing Service**](#) | PHP, MySQL | Live web-based printing platform; **1,000+ students**, reduced queues & crowd at centers |
-| [**AI Lead Capture & Chat Automation**](#) | n8n, Python, RAG (Qdrant), Gemini, Google Sheets, Zoho Bigin CRM | Auto-responds to customer messages, AI sentiment-based lead scoring, appends qualified leads to CRM |
+| 🏏 **Smart Stump Vision – AI for Cricket Decisions** | Python, YOLOv8, OpenCV, MiDaS, LabelImg | Real-time ML system for stumping decisions; detects bat, foot & ground using depth estimation; trained on a custom hand-annotated dataset |
+| 🖨️ **Student Printing Service** | PHP, MySQL | Live web-based printing platform digitalizing campus printing; **1,000+ students**, **4,000+ orders processed**, reduced queues & crowd |
+| 🤖 **AI Lead Capture & Chat Automation** | N8N, Python, RAG (Qdrant), Gemini, Google Sheets, Zoho Bigin CRM | Auto-responds to customer messages, AI sentiment-based lead scoring, appends qualified leads directly to CRM |
 
 </div>
 
@@ -207,9 +232,9 @@ public class Soorya {
 ## 📚 Currently Learning
 
 ```text
-🧱 Computer Networking → Routing, Switching, Protocols (Scaler)
-🤖 RAG Systems → Vector Databases, Qdrant, Embeddings
-🌱 Spring Boot → REST APIs, Advanced Concepts
+🧱 Computer Networking  → Routing, Switching, Protocols (Scaler)
+🤖 RAG Systems          → Vector Databases, Qdrant, Embeddings
+🌱 Spring Boot          → REST APIs, Advanced Concepts
 ```
 
 ## 📫 Connect With Me
@@ -218,6 +243,7 @@ public class Soorya {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-s-s-364839370)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-+91%208870305577-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918870305577)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya01-prog)
 ![Profile Views](https://komarev.com/ghpvc/?username=Soorya01-prog&style=flat-square&color=70a5fd)
