@@ -43,6 +43,7 @@ public class Soorya {
     };
 
     String[] currentlyLearning = {
+        "AI / Machine Learning",
         "Retrieval-Augmented Generation",
         "Spring Boot (advanced)"
     };
@@ -139,9 +140,7 @@ public class Soorya {
 
 ## 💼 Work Experience
 
-<details open>
-<summary><b>SAP Labs, Bangalore — Intern (May 2026 – June 2026)</b></summary>
-<br>
+### 🏢 SAP Labs, Bangalore — Intern (May 2026 – June 2026)
 
 > `N8N` `Python` `HTML` `CSS` `MySQL` `Ollama/Gemini`
 
@@ -150,11 +149,7 @@ public class Soorya {
 - Integrated Ollama/Gemini for AI-driven personalization of diet recommendations.
 - Delivered a full-stack automation solution spanning multiple stakeholder touchpoints (client → doctor → follow-up).
 
-</details>
-
-<details>
-<summary><b>Software Development Cell, PSG iTech, Coimbatore — Developer (March 2025 – May 2025)</b></summary>
-<br>
+### 🏢 Software Development Cell, PSG iTech, Coimbatore — Developer (March 2025 – May 2025)
 
 > `PHP` `MySQL`
 
@@ -163,7 +158,6 @@ public class Soorya {
 - Used by 1,000+ students, processing 4,000+ print orders.
 - Made campus printing significantly faster and more efficient for the student body.
 
-</details>
 
 ## 🚀 Featured Projects
 
@@ -227,9 +221,9 @@ public class Soorya {
 ## 📚 Currently Learning
 
 ```text
-🧱 Computer Networking  → Routing, Switching, Protocols (Scaler)
-🤖 RAG Systems          → Vector Databases, Qdrant, Embeddings
-🌱 Spring Boot          → REST APIs, Advanced Concepts
+🤖 AI / Machine Learning → Model Building, RAG, LLM Integration
+🧠 RAG Systems           → Vector Databases, Qdrant, Embeddings
+🌱 Spring Boot           → REST APIs, Advanced Concepts
 ```
 
 ## 📫 Connect With Me
