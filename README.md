@@ -110,7 +110,7 @@ public class Soorya {
 <div align="center">
 
 <a href="https://leetcode.com/u/Soorya_S/">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=Soorya_S&theme=dark&border_color=70A5FD&background_color=0D1117&text_color=C9D1D9" height="120"/>
+  <img src="https://leetcode-stats-six.vercel.app/?username=Soorya_S&theme=dark" height="120"/>
 </a>
 
 </div>
