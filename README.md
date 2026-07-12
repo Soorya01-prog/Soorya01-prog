@@ -42,7 +42,7 @@ public class Soorya {
 
 **Languages and Web Technologies:** Java, Python, HTML, CSS, JavaScript
 
-**Databases, Frameworks & Tools:** MySQL, Spring Boot (Beginner), Postman
+**Databases, Frameworks & Tools:** MySQL, Spring Boot (Beginner), Postman, VS Code
 
 **Automation and AI/ML:** N8N Automation, Retool, YOLOv8, Retrieval-Augmented Generation (RAG)
 
@@ -83,6 +83,40 @@ public class Soorya {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Soorya01-prog&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Soorya_S/">
+  <img src="https://leetcode-stats-card.vercel.app/api?username=Soorya_S&theme=dark&border_color=70A5FD&background_color=0D1117&text_color=C9D1D9" height="165"/>
+</a>
+
+</div>
+
+<div align="center">
+
+![Rank](https://img.shields.io/badge/Global%20Rank-370%2C209-70A5FD?style=flat-square&logo=leetcode&logoColor=white)
+![50 Days Badge](https://img.shields.io/badge/🔥%2050%20Days%20Badge-2026-EA4B71?style=flat-square)
+![100 Days Badge](https://img.shields.io/badge/🔥%20100%20Days%20Badge-2026-BF91F3?style=flat-square)
+
+</div>
+
+**Consistency:** Earned both the **50 Days** and **100 Days** LeetCode badges for 2026, reflecting a sustained daily problem-solving streak.
+
+**Solved by Language:**
+
+| Language | Problems Solved |
+|---|---|
+| 🐍 Python3 | 315 |
+| 🐍 Python | 59 |
+| 🗄️ MySQL | 19 |
+
+**Top Skill Tags:**
+
+`Array x183` · `String x71` · `Hash Table x64` · `Dynamic Programming x64` · `Two Pointers x55` · `Depth-First Search x52` · `Binary Search x45` · `Backtracking x12` · `Union-Find x16`
+
+> 🔗 Full profile: [leetcode.com/u/Soorya_S](https://leetcode.com/u/Soorya_S/)
 
 ## 💼 Work Experience
 
@@ -184,7 +218,8 @@ public class Soorya {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-s-s-364839370)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sooryasakthivel01@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soorya_S/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soorya01-prog)
 ![Profile Views](https://komarev.com/ghpvc/?username=Soorya01-prog&style=flat-square&color=70a5fd)
 
 </div>
